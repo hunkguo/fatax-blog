@@ -1,0 +1,22 @@
+---
+Steps to standardize accounting for small and micro enterprises
+---
+Everyone seems to be extremely tolerant of the compliance of SME accounting books. The bosses of SMEs also have a clear understanding of this. With the expansion of the scale of enterprises, accounting will gradually be standardized. Not only do small and medium-sized enterprises have the need to regulate their accounts, but small and medium-sized enterprises that are about to enter the capital market also have similar problems. I don't think you would deny that company accounting standards are not natural, they have processes and costs. Accounting compliance reform has actually become a professional term and professional work. This is really a ridiculous thing, and it is also a thing that saddens accountants.
+<!-- more -->
+In principle, accounting should be standardized, reasonable and legal. Now seriously proposing accounting compliance reforms is tantamount to admitting that all the accounting books I have done before are deceptive. From this perspective, accounting compliance reform is the original sin of enterprises. It is a self-certified company that can't look at its own accounts carefully before getting bigger and going out. This article does not want to criticize ethics, because the rules of accounting books are not a moral issue.
+
+It is unlikely that an enterprise with a dozen or twenty employees will establish a finance department, and it is also unlikely to recruit full-time financial personnel. Its accounting is paid by a company for three to five hundred yuan a month. The quality of the billing company's work is undoubtedly proportional to its charges. Since small businesses have chosen a billing company out of cost considerations, they must calmly accept its service quality. When the company is small, the financial information is relatively simple, and the bosses are well aware that they may not need to rely on financial statements to assist decision-making. In addition, the company is relatively small, and taxation pays less attention to the company. A large part of the preferential tax policies are formulated specifically for small and micro enterprises. Even if the accounts are not compliant, the tax risk of small and micro enterprises is relatively small.
+
+After the company grows larger, accounting compliance is not only a need to strengthen internal management, but also a need to reduce tax risks. It is undeniable that changes have taken place in accounting compliance reforms, often falling to spending money to buy standards. The embarrassment of the operation of small and micro enterprises is that if the finances are not standardized, it will be difficult for the company to grow; if they are eager to regulate, the company may find the cost unbearable. Most of the funds for accounting compliance are spent on tax costs and labor costs.
+
+Before companies carry out accounting compliance reforms, they must first determine the urgency of compliance and the degree of tax risk. For specific economic issues, we must consider whether we can make money after compliance. Companies that cannot make money after compliance should be eliminated. Only things that still have profit margins after compliance are worth continuing. Accounting compliance has a cost, and it is best for companies to carry out accounting compliance reforms in a rhythmic manner. It should not be completed in a hurry or overnight. After several years of accumulating malpractice changes, the company may not be able to bear it, nor may it be able to change. A good method is to proceed step by step, from easy to difficult, from near to far, and to fight steadily.
+
+Specific steps are as follows:
+
+The first is to formulate relevant accounting treatment systems to achieve accounting compliance. The system construction is mainly for urgent use, with common use first;
+
+The second is to standardize the increase first, and then resolve the stock. New accounts should be handled strictly in accordance with the system to avoid new problems. The original accumulated defects should be sorted out and solved step by step;
+
+3. From easy to difficult, from near to far, solve the easy first, first solve the time of occurrence, then solve the difficulty, solve the far;
+
+Fourth, when solving the accumulated drawbacks, we must carefully consider the company's financial affordability. When the company makes a profit, it might as well solve some problems that require "spending money to buy norms".
