@@ -1,5 +1,6 @@
 ---
 title: Comment gérer la fiscalité et la fiscalité de la politique de délocalisation par le biais du remplacement des droits de propriété
+date: "2022/5/24"
 ---
 Dans la pratique, le mode d'indemnisation pour le remplacement du logement est très bien accueilli par les entreprises qui déménagent. Lorsqu'une entreprise est expropriée et décide de déménager, la partie démolition, le gouvernement, négociera avec l'entreprise démolie sur l'indemnisation pour la démolition et la relocalisation. L'entreprise peut choisir une compensation monétaire, une compensation de réinstallation d'usine et un formulaire de compensation de réinstallation d'usine, qui appartient au remplacement du droit de propriété de démolition de l'entreprise. Comment gérer la fiscalité et la fiscalité de la politique de délocalisation adoptant la méthode du remplacement des droits de propriété ?
 <!-- more -->

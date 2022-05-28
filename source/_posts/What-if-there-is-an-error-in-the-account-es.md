@@ -1,5 +1,6 @@
 ---
 title: ¿Qué pasa si hay un error en la cuenta? es facil de hacer
+date: "2022/5/21"
 ---
 En el trabajo diario de las finanzas, siempre habrá algunas cuentas incorrectas y desordenadas, entonces, ¿qué debemos hacer cuando nos encontramos con cuentas desordenadas? No te preocupes, hoy te enseñaré algunos consejos para deshacerte fácilmente de los caracteres ilegibles. ven y mira
 <!-- more -->

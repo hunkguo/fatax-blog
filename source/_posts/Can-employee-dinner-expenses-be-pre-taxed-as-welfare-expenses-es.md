@@ -1,5 +1,6 @@
 ---
 title: ¿Se pueden pregravar los gastos de cena de los empleados como gastos de asistencia social?
+date: "2022/5/25"
 ---
 ¿Qué es una tarifa de asistencia social?
 

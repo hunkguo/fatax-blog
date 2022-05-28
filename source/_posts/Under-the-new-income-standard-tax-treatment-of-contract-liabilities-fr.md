@@ -1,5 +1,6 @@
 ---
 title: En vertu de la nouvelle norme de revenu traitement fiscal des passifs contractuels
+date: "2022/5/22"
 ---
 Les « Normes comptables pour les entreprises commerciales n° 14 - Chiffre d'affaires » révisées (ci-après dénommées les « Nouvelles normes de chiffre d'affaires ») réglementent en outre la comptabilisation, l'évaluation et la divulgation d'informations connexes des revenus sur la base de la comptabilisation des revenus provenant de contrats avec les clients. Les passifs contractuels sont un nouveau concept dans la nouvelle norme de revenus et reflètent la relation entre les obligations de performance d'une entreprise et les paiements des clients. Cet article analyse le traitement de la taxe sur la valeur ajoutée impliqué dans le contrat sur la base du cas d'application de la norme de revenu (ci-après dénommé « cas d'application de la nouvelle norme de revenu ») émis par la Direction de la comptabilité du ministère des Finances. le 11 décembre 2018. Les passifs sont les suivants.
 

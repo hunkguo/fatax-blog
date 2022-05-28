@@ -1,5 +1,6 @@
 ---
 title: 8 raisons pour lesquelles votre inventaire est inexact
+date: "2022/5/27"
 ---
 Mon ami a récemment changé d'emploi. Lorsque l'ancien et le nouveau comptables ont été remis, un ami a découvert que la nouvelle entreprise avait des dizaines de millions de stocks, mais l'entrepôt réel ne semblait pas en avoir autant. L'attitude évasive a rendu mon ami méfiant, et il a commencé à se demander s'il pouvait accepter le travail. . .
 En fait, il peut y avoir plusieurs raisons à l'inexactitude des stocks. Accepter de fausses factures n'est qu'une possibilité, pas nécessairement une cause. Même l'inventaire d'une entreprise est très différent du grand livre. Cela peut être une combinaison de raisons. résultat.

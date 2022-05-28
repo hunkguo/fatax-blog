@@ -1,5 +1,6 @@
 ---
 title: Steps to standardize accounting for small and micro enterprises
+date: "2022/5/23"
 ---
 Everyone seems to be extremely tolerant of the compliance of SME accounting books. The bosses of SMEs also have a clear understanding of this. With the expansion of the scale of enterprises, accounting will gradually be standardized. Not only do small and medium-sized enterprises have the need to regulate their accounts, but small and medium-sized enterprises that are about to enter the capital market also have similar problems. I don't think you would deny that company accounting standards are not natural, they have processes and costs. Accounting compliance reform has actually become a professional term and professional work. This is really a ridiculous thing, and it is also a thing that saddens accountants.
 <!-- more -->

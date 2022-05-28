@@ -1,5 +1,6 @@
 ---
 title: Cómo lidiar con las cuestiones fiscales y tributarias de la reubicación de políticas mediante el reemplazo de los derechos de propiedad
+date: "2022/5/24"
 ---
 En la práctica, el método de compensación por el reemplazo de viviendas es muy bien recibido por las empresas que se trasladan. Cuando una empresa es expropiada y decide reubicarse, la parte demolición, el gobierno, negociará con la empresa demolida una compensación por la demolición y la reubicación. La empresa puede elegir la forma de compensación monetaria, compensación de reasentamiento de planta y compensación de reasentamiento de fábrica, que pertenece al reemplazo del derecho de propiedad de demolición de la empresa. ¿Cómo afrontar la política fiscal y tributaria de la reubicación adoptando el método de sustitución de derechos de propiedad?
 <!-- more -->
