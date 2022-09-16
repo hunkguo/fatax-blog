@@ -1,6 +1,6 @@
 ---
 title: How to deal with the fiscal and taxation of policy relocation by way of property rights replacement
-date: "2022/5/24"
+date: 2022-5-24
 ---
 In practice, the compensation method for house replacement is highly welcomed by the relocating enterprises. When an enterprise is expropriated and decides to relocate, the demolition party, the government, will negotiate with the demolished enterprise on compensation for demolition and relocation. The enterprise can choose monetary compensation, plant resettlement compensation, and factory resettlement compensation form, which belongs to the enterprise demolition property right replacement. How to deal with the fiscal and taxation of policy relocation adopting the method of property rights replacement?
 <!-- more -->

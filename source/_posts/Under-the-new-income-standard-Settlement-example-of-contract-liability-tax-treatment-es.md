@@ -1,6 +1,6 @@
 ---
 title: Según el nuevo estándar de ingresos ejemplo de liquidación de tratamiento fiscal del pasivo contractual
-date: "2022/5/22"
+date: 2022-5-22
 ---
 Las "Normas de Contabilidad para Empresas Comerciales No. 14-Ingresos" revisadas (en lo sucesivo, "Nuevas Normas de Ingresos") reconocen los ingresos basados ​​en contratos con clientes y regulan además el reconocimiento de ingresos, la medición y la divulgación de información relacionada. Los pasivos contractuales son un nuevo concepto agregado a los nuevos estándares de ingresos, que reflejan la relación entre el cumplimiento de las obligaciones de desempeño de la empresa y el pago a los clientes. Este artículo se basa en el caso de aplicación de la norma de ingresos emitida por el Departamento de Contabilidad del Ministerio de Finanzas el 11 de diciembre de 2018 (en adelante, el "caso de aplicación de la nueva norma de ingresos"), y analiza los pasivos contractuales involucrados en la procesamiento del impuesto al valor agregado de la siguiente manera.
 <!-- more -->

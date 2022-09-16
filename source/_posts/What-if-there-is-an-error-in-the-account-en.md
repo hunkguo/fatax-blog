@@ -1,6 +1,6 @@
 ---
 title: What if there is an error in the account? it's easy to do
-date: "2022/5/21"
+date: 2022-5-21
 ---
 In the daily work of finance, there will always be some wrong and disordered accounts, so what should we do when we encounter disordered accounts? Don't worry, today I will teach you a few tips to easily get rid of garbled characters. come and see.
 cause of confusion

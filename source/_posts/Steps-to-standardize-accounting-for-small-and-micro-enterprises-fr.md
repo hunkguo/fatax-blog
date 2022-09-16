@@ -1,6 +1,6 @@
 ---
 title: Étapes pour normaliser la comptabilité des petites et micro-entreprises
-date: "2022/5/23"
+date: 2022-5-23
 ---
 Tout le monde semble extrêmement tolérant à l'égard de la conformité des livres comptables des PME. Les patrons de PME l'ont aussi bien compris. Avec l'expansion de la taille des entreprises, la comptabilité sera progressivement standardisée. Non seulement les petites et moyennes entreprises ont besoin de réguler leurs comptes, mais les petites et moyennes entreprises qui sont sur le point d'entrer sur le marché des capitaux ont également des problèmes similaires. Je ne pense pas que vous puissiez nier que les normes comptables des entreprises ne sont pas naturelles, elles ont des processus et des coûts. La réforme de la conformité comptable est en fait devenue un terme professionnel et un travail professionnel. C'est vraiment une chose ridicule, et c'est aussi une chose qui attriste les comptables.
 <!-- more -->

@@ -1,6 +1,6 @@
 ---
 title: 8 Reasons Your Inventory Is Inaccurate
-date: "2022/5/27"
+date: 2022-5-27
 ---
 My friend recently changed jobs. When the old and new accountants were handed over, a friend found that the new company had tens of millions of inventory, but the actual warehouse did not seem to have that many. The noncommittal attitude made my friend suspicious, and he began to wonder if he could take the job. . .
 <!-- more -->

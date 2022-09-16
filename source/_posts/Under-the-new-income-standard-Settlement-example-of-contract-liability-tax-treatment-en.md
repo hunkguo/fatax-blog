@@ -1,6 +1,6 @@
 ---
 title: Under the new income standard Settlement example of contract liability tax treatment
-date: "2022/5/22"
+date: 2022-5-22
 ---
 The revised "Accounting Standards for Business Enterprises No. 14-Revenue" (hereinafter referred to as "New Revenue Standards") recognizes revenue based on contracts with customers, and further regulates revenue recognition, measurement and related information disclosure. Contract liabilities are a new concept added to the new revenue standards, reflecting the relationship between the performance of the company's performance obligations and the payment of customers. This article is based on the application case of the revenue standard issued by the Accounting Department of the Ministry of Finance on December 11, 2018 (hereinafter referred to as the "new revenue standard application case"), and analyzes the contract liabilities involved in the processing of value-added tax as follows.
 <!-- more -->

@@ -1,6 +1,6 @@
 ---
 title: 8 razones por las que su inventario es inexacto
-date: "2022/5/27"
+date: 2022-5-27
 ---
 Mi amigo cambió recientemente de trabajo. Cuando se entregaron los contadores anterior y nuevo, un amigo descubrió que la nueva empresa tenía decenas de millones de inventario, pero el almacén real no parecía tener tantos. La actitud evasiva hizo que mi amigo sospechara y comenzó a preguntarse si podría aceptar el trabajo. . .
 De hecho, puede haber muchas razones para la inexactitud del inventario. Aceptar facturas falsas es solo una posibilidad, no necesariamente una causa. Incluso el inventario de una empresa es muy diferente del libro mayor. Esto podría ser una combinación de razones. resultado.

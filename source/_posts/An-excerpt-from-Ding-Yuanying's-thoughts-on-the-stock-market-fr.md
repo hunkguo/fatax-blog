@@ -1,6 +1,6 @@
 ---
 title: Un extrait des réflexions de Ding Yuanying sur la bourse
-date: "2022/5/28"
+date: 2022-5-28
 ---
 Le drame "Tian Dao" a été modifié par rapport au livre "The Distant Savior" écrit par Doudou. L'intrigue de la série télévisée a été supprimée plusieurs fois et ne peut pas refléter pleinement l'essence du livre. La plupart des amis qui ont lu ce livre disent que l'écriture est très bonne et très bonne. Pour ceux qui aiment spéculer sur les actions, de nombreuses personnes ont lu ce livre, et bon nombre des dialogues de ce livre sont assez classiques.
  <!-- more -->
