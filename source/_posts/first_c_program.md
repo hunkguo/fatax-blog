@@ -28,8 +28,6 @@ int main()
 
     return 0;
 }
-
-
 ```
 CMakeLists.txt
 这里感觉有些小成就感，cmake用了不少，自己写还是头一次。
