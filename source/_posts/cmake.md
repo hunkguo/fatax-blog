@@ -1,6 +1,6 @@
 ---
 title:cmake升级到最新版本
-date: 2022-9-17
+date: 
 tags:
 	- C
 	- cmake
