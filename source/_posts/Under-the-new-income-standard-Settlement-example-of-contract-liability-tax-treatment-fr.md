@@ -1,6 +1,6 @@
 ---
 title: En vertu de la nouvelle norme de revenu  exemple de règlement du traitement fiscal des obligations contractuelles
-date: 2022-5-22
+date: 
 ---
 La version révisée des « Normes comptables pour les entreprises commerciales n° 14-Revenus » (ci-après dénommées « Nouvelles normes de revenus ») comptabilise les revenus sur la base des contrats avec les clients et réglemente en outre la comptabilisation des revenus, leur évaluation et la divulgation d'informations connexes. Les passifs contractuels sont un nouveau concept ajouté aux nouvelles normes de revenus, reflétant la relation entre l'exécution des obligations de performance de l'entreprise et le paiement des clients. Cet article s'appuie sur le cas d'application de la norme de recettes émise par la Direction de la comptabilité du ministère des Finances le 11 décembre 2018 (ci-après dénommé « le cas d'application de la nouvelle norme de recettes »), et analyse les passifs contractuels impliqués dans la traitement de la taxe sur la valeur ajoutée comme suit.
 <!-- more -->

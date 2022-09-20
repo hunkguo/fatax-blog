@@ -1,6 +1,6 @@
 ---
 title: Les frais de dîner des employés peuvent-ils être pré-taxés en tant que dépenses sociales ?
-date: 2022-5-25
+date: 
 ---
 Qu'est-ce qu'une cotisation sociale ?
 

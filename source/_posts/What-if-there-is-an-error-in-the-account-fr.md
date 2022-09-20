@@ -1,6 +1,6 @@
 ---
 title: Que faire s'il y a une erreur dans le compte ? c'est facile à faire
-date: 2022-5-21
+date: 
 ---
 Dans le travail quotidien de la finance, il y aura toujours des comptes erronés et désordonnés, alors que devons-nous faire lorsque nous rencontrons des comptes désordonnés ? Ne vous inquiétez pas, aujourd'hui je vais vous apprendre quelques astuces pour vous débarrasser facilement des personnages brouillés. viens et vois.
 cause de confusion

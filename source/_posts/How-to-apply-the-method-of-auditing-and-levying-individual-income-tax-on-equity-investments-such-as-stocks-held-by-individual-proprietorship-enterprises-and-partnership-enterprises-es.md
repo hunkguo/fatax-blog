@@ -1,6 +1,6 @@
 ---
 title: ¿Cómo aplicar el método de auditoría y recaudación del impuesto sobre la renta de las personas físicas en las inversiones de capital, como las acciones en poder de empresas de propiedad individual y empresas asociadas?
-date: 2022-5-24
+date: 
 ---
 El "Anuncio sobre la recaudación y administración del Impuesto sobre la Renta de las Personas Físicas sobre Rentas de Inversiones Patrimoniales" (Anuncio No. 41 de 2021 del Ministerio de Hacienda y la Administración Tributaria del Estado) establece que: Empresa), el impuesto sobre la renta de las personas físicas se calcula y grava de acuerdo con al método de la reconciliación.
 Preste atención a la palabra "universal" en las regulaciones anteriores y prohíba el uso de expropiaciones aprobadas en varios lugares.

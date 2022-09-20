@@ -1,6 +1,6 @@
 ---
 title:  ¿Finanzas y contabilidad son lo mismo?
-date: 2022-5-26
+date: 
 ---
 Muchas personas que trabajan en finanzas, contabilidad e incluso trabajo pueden ser sugeridas por sus padres. Las personas que los rodean están trabajando duro o puede ser simplemente accidental.
 Independientemente del motivo, muchas personas, incluidos los trabajadores de oficina, no pueden distinguir la diferencia entre finanzas y contabilidad, y la diferencia.

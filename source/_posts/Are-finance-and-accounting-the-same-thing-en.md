@@ -1,6 +1,6 @@
 ---
 title: Are finance and accounting the same thing?
-date: 2022-5-26
+date: 
 ---
 Many people who work in finance, accounting, and even work may be suggested by their parents. People around them are working hard, or it may just be accidental.
 Regardless of the reason, many people, including office workers, can't distinguish the difference between finance and accounting, and the difference.

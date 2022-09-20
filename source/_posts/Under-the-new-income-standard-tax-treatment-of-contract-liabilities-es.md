@@ -1,6 +1,6 @@
 ---
 title: Bajo la nueva norma de ingresos tratamiento fiscal de las obligaciones contractuales
-date: 2022-5-22
+date: 
 ---
 Las "Normas de Contabilidad para Empresas Comerciales No. 14 - Ingresos" revisadas (en adelante, las "Nuevas Normas de Ingresos") regulan aún más el reconocimiento, la medición y la divulgación de información relacionada de los ingresos con base en el reconocimiento de ingresos de contratos con clientes. Los pasivos contractuales son un nuevo concepto en el nuevo estándar de ingresos y reflejan la relación entre las obligaciones de desempeño de una empresa y los pagos de los clientes. Este artículo analiza el tratamiento del impuesto al valor agregado involucrado en el contrato en función del caso de aplicación de la norma de renta (en adelante, el "caso de aplicación de la nueva norma de renta") emitida por el Departamento de Contabilidad del Ministerio de Hacienda. el 11 de diciembre de 2018. Los pasivos son los siguientes.
 

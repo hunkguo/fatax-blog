@@ -1,6 +1,6 @@
 ---
 title: How to apply the method of auditing and levying individual income tax on equity investments such as stocks held by individual proprietorship enterprises and partnership enterprises?
-date: 2022-5-24
+date: 
 ---
 The "Announcement on the Collection and Administration of Individual Income Tax on Equity Investment Income" (Announcement No. 41 of 2021 of the Ministry of Finance and the State Administration of Taxation) stipulates that: Enterprise), personal income tax is calculated and levied according to the reconciliation method.
 Pay attention to the word "universal" in the above regulations, and prohibit the use of approved expropriation in various places.

@@ -1,6 +1,6 @@
 ---
 title: Pasos para estandarizar la contabilidad para pequeñas y microempresas
-date: 2022-5-23
+date: 
 ---
 Todo el mundo parece ser extremadamente tolerante con el cumplimiento de los libros contables de las PYME. Los jefes de las pymes también tienen un claro entendimiento de esto. Con la expansión de la escala de empresas, la contabilidad se estandarizará gradualmente. No solo las pequeñas y medianas empresas tienen la necesidad de regular sus cuentas, sino que las pequeñas y medianas empresas que están por ingresar al mercado de capitales también tienen problemas similares. No creo que pueda negar que los estándares contables de las empresas no son naturales, tienen procesos y costos. La reforma del cumplimiento contable se ha convertido en realidad en un término y un trabajo profesional. Esto es realmente ridículo y también entristece a los contables.
 <!-- more -->

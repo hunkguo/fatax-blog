@@ -1,6 +1,6 @@
 ---
 title: La finance et la comptabilité sont-elles la même chose ?
-date: 2022-5-26
+date: 
 ---
 
 De nombreuses personnes qui travaillent dans la finance, la comptabilité et même le travail peuvent être suggérées par leurs parents. Les gens autour d'eux travaillent dur, ou c'est peut-être simplement accidentel.

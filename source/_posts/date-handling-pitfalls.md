@@ -1,6 +1,6 @@
 ---
 title: C语言日期处理
-date: 2022-9-16
+date: 
 tags:
 	- C
 categories: 人到中年学C语言

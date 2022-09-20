@@ -1,6 +1,6 @@
 ---
 title: An excerpt from Ding Yuanying's thoughts on the stock market
-date: 2022-5-28
+date: 
 ---
 The drama "Tian Dao" was changed from the book "The Distant Savior" written by Doudou. The plot of the TV series has been deleted several times, and it cannot fully reflect the essence of the book. Most of the friends who have read this book say that the writing is very good and very good. For those who like to speculate in stocks, many people have read this book, and many of the dialogues in this book are quite classic.
  <!-- more -->

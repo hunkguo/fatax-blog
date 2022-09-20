@@ -1,6 +1,6 @@
 ---
 title: Comment appliquer le mode de contrôle et de perception de l'impôt des personnes physiques sur les participations telles que les actions détenues par les entreprises individuelles et les sociétés en nom collectif ?
-date: 2022-5-24
+date: 
 ---
 L'« Annonce sur la perception et l'administration de l'impôt sur le revenu des personnes physiques sur les revenus des investissements en actions » (Avis n° 41 de 2021 du ministère des Finances et de l'Administration nationale des impôts) stipule que : Entreprise), l'impôt sur le revenu des personnes physiques est calculé et perçu selon à la méthode de rapprochement.
 Faites attention au mot "universel" dans les règlements ci-dessus, et interdisez l'utilisation de l'expropriation approuvée dans divers endroits.
