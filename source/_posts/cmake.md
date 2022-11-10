@@ -1,9 +1,10 @@
 ---
 title:cmake升级到最新版本
-date: 
+date: 2022/11/7
+updated: 2022/11/7
 tags:
-	- C
-	- cmake
+- C
+- cmake
 categories: 人到中年学C语言
 ---
 编译cppzmq，总是报错，Unknown CMake command "FetchContent_MakeAvailable"。

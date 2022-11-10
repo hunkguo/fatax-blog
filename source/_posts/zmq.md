@@ -1,9 +1,10 @@
 ---
 title: ZMQ
-date: 
+date: 2022/11/9
+updated: 2022/11/9
 tags:
-	- C
-	- ZMQ
+- C
+- ZMQ
 categories: 人到中年学C语言
 ---
 
