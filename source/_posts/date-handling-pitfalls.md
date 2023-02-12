@@ -1,7 +1,7 @@
 ﻿---
 title: C语言日期处理
 date: 2022/11/7
-updated: 
+updated: 1970-01-01 08:00:00
 tags:
 - C
 categories: 人到中年学C语言

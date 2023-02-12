@@ -3,7 +3,7 @@ title: 元宇宙系列深度研究:脑机接口现状与未来
 date: 2022/11/11 20:01
 tags:
 - 元宇宙
-updated: 
+updated: 1970-01-01 08:00:00
 ---
 
 # 脑机接口(Brain-Computer Interface，BCI)
