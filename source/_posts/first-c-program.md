@@ -1,7 +1,7 @@
----
+﻿---
 title: 第一个C语言程序
 date: 2022/11/8
-updated: 2022/11/8
+updated: 
 tags:
 - C
 categories: 人到中年学C语言
