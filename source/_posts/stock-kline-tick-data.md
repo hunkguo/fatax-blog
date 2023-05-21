@@ -16,7 +16,7 @@ updated: 2023-05-21 14:19
 [月线数据](http://chan.fatax.cn/monthly-603019.SH.csv)
 [周线数据](http://chan.fatax.cn/weekly-603019.SH.csv)
 [日线数据](http://chan.fatax.cn/daily-603019.SH.csv)
-[周线数据](http://chan.fatax.cn/60min-603019.SH.csv)
+[60分钟数据](http://chan.fatax.cn/60min-603019.SH.csv)
 [15分钟数据](http://chan.fatax.cn/15min-603019.SH.csv)
 [5分钟数据](http://chan.fatax.cn/5min-603019.SH.csv)
 [1分钟数据](http://chan.fatax.cn/1min-603019.SH.csv)
