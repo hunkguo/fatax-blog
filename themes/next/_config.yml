@@ -670,7 +670,7 @@ add_this_id:
 # ---------------------------------------------------------------
 
 # Google Analytics
-google_analytics:
+google_analytics: G-LG4FCHVLWL
   tracking_id: # <app_id>
   # By default, NexT will load an external gtag.js script on your site.
   # If you only need the pageview feature, set the following option to true to get a better performance.
