@@ -1,7 +1,6 @@
 ---
 title: Unlocking the Secrets of Low-Radiation Glass
 date: 2023-6-3 17:15
-updated: 2023-6-3 17:15
 ---
 Title: Unlocking the Secrets of Low-Radiation Glass: A Journey into Advanced Materials
 Introduction:

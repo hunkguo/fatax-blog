@@ -1,7 +1,6 @@
 ---
 title: Radiation-Proofing Our World
 date: 2023-6-3 17:46
-updated: 2023-6-3 17:46
 ---
 Introduction:
 

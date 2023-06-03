@@ -1,7 +1,6 @@
 ---
 title: The Science Behind Low-Radiation Glass
 date: 2023-6-3 17:48
-updated: 2023-6-3 17:48
 ---
 Introduction:
 

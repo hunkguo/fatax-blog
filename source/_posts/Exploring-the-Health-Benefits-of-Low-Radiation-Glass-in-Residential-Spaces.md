@@ -1,7 +1,6 @@
 ---
 title: Exploring the Health Benefits of Low-Radiation Glass in Residential Spaces
 date: 2023-6-3 17:36
-updated: 2023-6-3 17:36
 ---
 Introduction:
 

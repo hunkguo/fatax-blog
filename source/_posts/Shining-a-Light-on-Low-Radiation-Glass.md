@@ -1,7 +1,6 @@
 ---
 title: Shining a Light on Low-Radiation Glass
 date: 2023-6-3 17:40
-updated: 2023-6-3 17:40
 ---
 Introduction:
 

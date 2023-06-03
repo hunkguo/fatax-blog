@@ -1,7 +1,6 @@
 ---
 title: Unlocking the Secrets of Low-Radiation Glass
 date: 2023-6-3 17:15
-updated: 2023-6-3 17:15
 ---
 Chapter 1: The Mysterious Origins
 As we venture into the depths of low-radiation glass, we encounter a shadowy past obscured by layers of secrecy. Originating from clandestine research labs, its creation was shrouded in mystery. Whispers of scientists toiling away, driven by an unseen force, permeate the air. These groundbreaking minds sought to craft a material that would revolutionize the way we perceive glass - something beyond the comprehension of the ordinary world.

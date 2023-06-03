@@ -1,7 +1,6 @@
 ---
 title: From Laboratories to Living Rooms
 date: 2023-6-3 17:43
-updated: 2023-6-3 17:43
 ---
 Introduction:
 

@@ -1,7 +1,6 @@
 ---
 title: Beyond Energy Savings
 date: 2023-6-3 17:45
-updated: 2023-6-3 17:45
 ---
 Introduction:
 

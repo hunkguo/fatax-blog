@@ -1,7 +1,6 @@
 ---
 title: The Evolution of Window Technology
 date: 2023-6-3 17:52
-updated: 2023-6-3 17:52
 ---
 Introduction:
 

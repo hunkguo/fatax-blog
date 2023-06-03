@@ -1,7 +1,6 @@
 ---
 title: Creating a Safe Haven
 date: 2023-6-3 17:50
-updated: 2023-6-3 17:50
 ---
 Introduction:
 
