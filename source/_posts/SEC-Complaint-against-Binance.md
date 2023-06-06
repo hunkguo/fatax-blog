@@ -1,10 +1,10 @@
 ---
-title: The Science Behind Low-Radiation Glass
+title: SEC起诉BINANCE和创始人CZ 
 date: 2023-6-6 21:59
 ---
-美国证券交易委员会（SEC）对BINANCE 和创始人CZ 进行了起诉，长达136页的起诉书，揭示了不少有趣的信息，我们认为有这些关键点值得关注。
+美国证券交易委员会（SEC）对BINANCE和创始人进行了起诉，长达136页的起诉书，揭示了不少有趣的信息，我们认为有这些关键点值得关注。
 
-美国 SEC 在针对币安的诉讼文件中，将Binance US 上线的 SOL、ADA、MATIC、FIL、ATOM、SAND、MANA、ALGO、AXS 和 COTI等均定性为证券，不过这是包括但不限于。此前，SEC 主席 Gary Gensler 多次公开表示，根据美国法律，使用质押协议的POS代应被视为证券，其中当然也包括ETH，但是美国商品期货交易委员会（CFTC）主席 Rostin Behnam 却反对这一观点，他认为以太坊是一种商品。
+美国 SEC 在针对币安的诉讼文件中，将Binance US 上线的 SOL、ADA、MATIC、FIL、ATOM、SAND、MANA、ALGO、AXS 和COTI等均定性为证券，不过这是包括但不限于。此前，SEC 主席 Gary Gensler 多次公开表示，根据美国法律，使用质押协议的POS代应被视为证券，其中当然也包括ETH，但是美国商品期货交易委员会（CFTC）主席 Rostin Behnam却反对这一观点，他认为以太坊是一种商品。
 
 因为该表述，SEC的打击面一下从 Binance 变成了整个加密圈，@cz_binance也在社交媒体上表示，“我们需要团结起来”（Strong together）。
 ![Strong together](/images/Fx6HOuwaIAAGu7F.jfif)
