@@ -1,4 +1,5 @@
-﻿---EDR（Endpoint Detection and Response）概念解析-保护网络安全的新一代安全技术
+﻿---
+title: EDR概念解析-保护网络安全的新一代安全技术
 date: 2023-07-10 21:11:00
 updated: 2023-07-10 21:11:00
 tags:
