@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: HG的经验分享
-subtitle: ''
-description: ''
-keywords:
-author: Hunk Guo
+title: HG - Government,Economy,Educate,Science & technology
+subtitle: 'Government,Economy,Educate,Science & technology'
+description: 'Government,Economy,Educate,Science & technology'
+keywords: Government Economy Educate Science & technology
+author: Hunk
 # language: en
 language: zh-CN
 timezone: ''
